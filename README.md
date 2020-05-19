@@ -1,1 +1,1 @@
-# Effects-of-business-news-on-the-stocks-behaviour
+# Analyising the effects-of-headlines-on-the-stocks-behaviour-of-the-businesses
